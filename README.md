@@ -6,6 +6,8 @@
 
 <a href="https://hits.sh/github.com/NepalJohn21/NepalJohn21/"><img alt="Hits" src="https://hits.sh/github.com/NepalJohn21/NepalJohn21.svg?label=Total%20Views"/></a>
 
+![](https://komarev.com/ghpvc/?username=nepaljohn21)
+
 <!--
 **NepalJohn21/NepalJohn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
