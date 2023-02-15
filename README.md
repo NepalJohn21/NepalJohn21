@@ -8,6 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=nepaljohn21)
 
+<a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/dggd4jFbf79qEEPakNv8?label=VISITS&shadow=1&shadowOpacity=30&swap=1&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
+
 <!--
 **NepalJohn21/NepalJohn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
