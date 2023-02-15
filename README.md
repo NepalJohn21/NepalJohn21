@@ -4,6 +4,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NepalJohn21&theme=default)
 
+<a href="https://hits.sh/github.com/NepalJohn21/NepalJohn21/"><img alt="Hits" src="https://hits.sh/github.com/NepalJohn21/NepalJohn21.svg?label=Total%20Views"/></a>
+
 <!--
 **NepalJohn21/NepalJohn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
